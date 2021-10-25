@@ -2,6 +2,11 @@
 Aku malas nak menulis kod yang berulang ! Nah follow jer teknik ni !
 
 
+-> klik sini bro : https://github.com/piiyel19/AutomatedBackendLaravelController.php/blob/main/README.md?plain=1
+
+\n
+
+
 
 <?php
 
